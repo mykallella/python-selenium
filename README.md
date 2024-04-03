@@ -26,9 +26,9 @@
 
 ## 🔧 Testes
 
-Execute `pytest .\tests\test_ct01_login_valido.py` para executar o teste no modo interativo.
-Execute `pytest .\tests\test_ct02_login_invalido.py` para executar o teste no modo interativo.
-Execute `pytest .\tests\test_ct03_adicionar_produtos_carrinho.py` para executar o teste no modo interativo.
+- Execute `pytest .\tests\test_ct01_login_valido.py` para executar o teste no modo interativo.
+- Execute `pytest .\tests\test_ct02_login_invalido.py` para executar o teste no modo interativo.
+- Execute `pytest .\tests\test_ct03_adicionar_produtos_carrinho.py` para executar o teste no modo interativo.
 
 ## 🔗 Contato
 
