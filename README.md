@@ -1,7 +1,6 @@
 # Automação de testes Web com Selenium Webdriver + Python
 
-![preview](./preview1.png)
-![preview](./preview2.png)
+https://github.com/user-attachments/assets/3e41eb2d-31d8-4234-a96f-2ab7ad9d6efa
  
 > Selenium Webdriver + Python para automação de testes E2E
 
